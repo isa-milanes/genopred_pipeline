@@ -1,2 +1,0 @@
-name path population n sampling prevalence mean sd label
-OCDgwas /vast/palmer/scratch/olfson/im433/prs_test2/new_data/reference/gwas_sumstats/ocd_aug2017.txt EUR 576257 0.0245 0.03 NA NA "OCD"
