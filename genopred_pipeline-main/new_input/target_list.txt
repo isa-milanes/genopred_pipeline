@@ -1,0 +1,2 @@
+name path type indiv_report
+SangerOCD_Data /vast/palmer/scratch/olfson/im433/prs_test2/new_data/target/sanger_GenoPred/sangerOCD plink1 T
