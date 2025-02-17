@@ -7,7 +7,7 @@ Best resource for questions about the pipeline: https://opain.github.io/GenoPred
 
 1. Download this repository (in HPC) which will include template files with the folders and files you will need.
    ```bash
-   git clone https://github.com/isabella-milanes_yale/genopred_pipeline.git
+   git clone https://github.com/isa-milanes/genopred_pipeline.git
    ```
 2. Update ~new_data/target, you should have all of your imputed plink files in here
 3. Update ~new_data/reference/gwas_sumstats, you should have your gwas_sumstats here
